@@ -1,0 +1,110 @@
+[33mcommit 885a7d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:47:51 2021 +0800
+
+    DELETING LEVEL 1 FOLDER WITH CHILDER
+
+[33mcommit 2a50c9b[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:43:07 2021 +0800
+
+    DELETED hipster.txt file
+
+[33mcommit 5e89617[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:38:03 2021 +0800
+
+    DELETING NEWFILE.TXT
+
+[33mcommit 7e132d5[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:33:28 2021 +0800
+
+    renaming level1 text file to level1-textfile
+
+[33mcommit a1f86d1[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:28:53 2021 +0800
+
+    renaming level1 txt file
+
+[33mcommit e84e8f6[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:25:42 2021 +0800
+
+    RETURNING level2-newname txt file back to level2 directory
+
+[33mcommit fac713a[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:24:04 2021 +0800
+
+    MOVING level2-newname to level3 directory
+
+[33mcommit d0e8996[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:20:27 2021 +0800
+
+    RENAMING LEVEL 2 FILES
+
+[33mcommit 4fb89ec[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:17:57 2021 +0800
+
+    renaming level3-textfile
+
+[33mcommit 554d0c3[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 14:04:39 2021 +0800
+
+    COMMITING ALL THESE FILES
+
+[33mcommit bcbb530[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 13:50:21 2021 +0800
+
+    More texts added on hipster.txt
+
+[33mcommit 0647b7e[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 13:48:36 2021 +0800
+
+    Adding new file
+
+[33mcommit 47c0ce4[m
+Author: Christopher Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 13:29:49 2021 +0800
+
+    ADding more ipsum txt
+
+[33mcommit 56b1b94[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kenneth Quial <kennethquial@gmail.com>
+Date:   Fri Apr 30 13:13:03 2021 +0800
+
+    My first Commit
+
+[33mcommit 4beb7f0[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f914[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
